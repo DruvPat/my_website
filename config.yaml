@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: http://dhruvbobpathak.netlify.app/
 languageCode: en-us
-title: Forty
+title: Dhruv Pathak's Portfolio Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -14,14 +14,14 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London
+        country: U.K.
+        street: Regents Park
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: dpathak.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
@@ -56,9 +56,10 @@ params:
         url: https://www.github.com
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: www.linkedin.com/in/dhruvpathak102
+
   image: ''
-  name: Your name
+  name: Dhruv Pathak
   navigation:
     button1:
       - name: Get Started
