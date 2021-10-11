@@ -1,7 +1,7 @@
 baseURL: http://dhruvbobpathak.netlify.app/
 languageCode: en-us
 title: Dhruv Pathak's Portfolio Website
-theme: Forty
+theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
